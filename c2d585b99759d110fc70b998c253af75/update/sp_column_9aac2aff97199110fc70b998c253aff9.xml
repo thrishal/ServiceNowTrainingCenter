@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
     <sp_column action="INSERT_OR_UPDATE">
         <class_name>header-background</class_name>
