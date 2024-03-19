@@ -3,112 +3,98 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>module_name</element>
             <position>0</position>
-            <sys_created_by>abhrajyoti.kanrar</sys_created_by>
-            <sys_created_on>2022-08-14 11:05:13</sys_created_on>
-            <sys_id>a1f90dbd9759d110fc70b998c253af53</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-19 15:48:30</sys_created_on>
+            <sys_id>6ba160e9970902105b8aff36f053afe0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training_modules" sys_domain="global" view="Default view">b1b985bd9759d110fc70b998c253af59</sys_ui_section>
-            <sys_updated_by>abhrajyoti.kanrar</sys_updated_by>
-            <sys_updated_on>2022-08-14 11:05:13</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-19 15:48:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>training</element>
             <position>1</position>
-            <sys_created_by>abhrajyoti.kanrar</sys_created_by>
-            <sys_created_on>2022-08-14 11:05:13</sys_created_on>
-            <sys_id>a5f90dbd9759d110fc70b998c253af53</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-19 15:48:30</sys_created_on>
+            <sys_id>eba160e9970902105b8aff36f053afe0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training_modules" sys_domain="global" view="Default view">b1b985bd9759d110fc70b998c253af59</sys_ui_section>
-            <sys_updated_by>abhrajyoti.kanrar</sys_updated_by>
-            <sys_updated_on>2022-08-14 11:05:13</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-19 15:48:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>2</position>
-            <sys_created_by>abhrajyoti.kanrar</sys_created_by>
-            <sys_created_on>2022-08-14 11:05:13</sys_created_on>
-            <sys_id>a9f90dbd9759d110fc70b998c253af53</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-19 15:48:30</sys_created_on>
+            <sys_id>6fa160e9970902105b8aff36f053afe0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training_modules" sys_domain="global" view="Default view">b1b985bd9759d110fc70b998c253af59</sys_ui_section>
-            <sys_updated_by>abhrajyoti.kanrar</sys_updated_by>
-            <sys_updated_on>2022-08-14 11:05:13</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-19 15:48:30</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sequence</element>
+            <element>active</element>
             <position>3</position>
-            <sys_created_by>abhrajyoti.kanrar</sys_created_by>
-            <sys_created_on>2022-08-14 11:05:13</sys_created_on>
-            <sys_id>adf90dbd9759d110fc70b998c253af53</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-19 15:48:30</sys_created_on>
+            <sys_id>efa160e9970902105b8aff36f053afe0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training_modules" sys_domain="global" view="Default view">b1b985bd9759d110fc70b998c253af59</sys_ui_section>
-            <sys_updated_by>abhrajyoti.kanrar</sys_updated_by>
-            <sys_updated_on>2022-08-14 11:05:13</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-19 15:48:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>active</element>
+            <element>sequence</element>
             <position>4</position>
-            <sys_created_by>abhrajyoti.kanrar</sys_created_by>
-            <sys_created_on>2022-08-14 11:05:13</sys_created_on>
-            <sys_id>a1f90dbd9759d110fc70b998c253af54</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-19 15:48:30</sys_created_on>
+            <sys_id>63a160e9970902105b8aff36f053afe1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training_modules" sys_domain="global" view="Default view">b1b985bd9759d110fc70b998c253af59</sys_ui_section>
-            <sys_updated_by>abhrajyoti.kanrar</sys_updated_by>
-            <sys_updated_on>2022-08-14 11:05:13</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-19 15:48:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
             <position>5</position>
-            <sys_created_by>abhrajyoti.kanrar</sys_created_by>
-            <sys_created_on>2022-08-14 11:05:13</sys_created_on>
-            <sys_id>a5f90dbd9759d110fc70b998c253af54</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-19 15:48:30</sys_created_on>
+            <sys_id>e3a160e9970902105b8aff36f053afe1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training_modules" sys_domain="global" view="Default view">b1b985bd9759d110fc70b998c253af59</sys_ui_section>
-            <sys_updated_by>abhrajyoti.kanrar</sys_updated_by>
-            <sys_updated_on>2022-08-14 11:05:13</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-19 15:48:30</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>content</element>
             <position>6</position>
-            <sys_created_by>abhrajyoti.kanrar</sys_created_by>
-            <sys_created_on>2022-08-14 11:05:13</sys_created_on>
-            <sys_id>a9f90dbd9759d110fc70b998c253af54</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-19 15:48:30</sys_created_on>
+            <sys_id>67a160e9970902105b8aff36f053afe1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training_modules" sys_domain="global" view="Default view">b1b985bd9759d110fc70b998c253af59</sys_ui_section>
-            <sys_updated_by>abhrajyoti.kanrar</sys_updated_by>
-            <sys_updated_on>2022-08-14 11:05:13</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>published</element>
-            <position>7</position>
-            <sys_created_by>abhrajyoti.kanrar</sys_created_by>
-            <sys_created_on>2022-08-14 11:12:02</sys_created_on>
-            <sys_id>918b01319799d110fc70b998c253af35</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training_modules" sys_domain="global" view="Default view">b1b985bd9759d110fc70b998c253af59</sys_ui_section>
-            <sys_updated_by>abhrajyoti.kanrar</sys_updated_by>
-            <sys_updated_on>2022-08-14 11:12:02</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-19 15:48:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -123,12 +109,15 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>b1b985bd9759d110fc70b998c253af59</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_name>x_509953_tc_training_modules</sys_name>
             <sys_overrides/>
             <sys_package display_value="Training Center" source="x_509953_tc">c2d585b99759d110fc70b998c253af75</sys_package>
             <sys_policy/>
             <sys_scope display_value="Training Center">c2d585b99759d110fc70b998c253af75</sys_scope>
             <sys_update_name>sys_ui_section_b1b985bd9759d110fc70b998c253af59</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-14 04:10:39</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

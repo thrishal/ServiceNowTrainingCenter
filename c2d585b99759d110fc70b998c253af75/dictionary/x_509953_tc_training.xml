@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="57e509b99759d110fc70b998c253afcf" label="Training" max_length="40" name="x_509953_tc_training" type="collection">
-        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" default="true" label="Active" max_length="50" name="active" type="boolean"/>
         <element label="Background Image" max_length="40" name="background_image" type="user_image"/>
         <element choice="1" label="Catrgory" mandatory="true" max_length="40" name="catrgory" type="choice">
             <choice>

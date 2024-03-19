@@ -5,6 +5,7 @@
   /* widget controller */
   var c = this;
 	
+	
 	$rootScope.$on("update_progress", function(event, data) {
 
 		if(data.updateRequired){
@@ -108,11 +109,14 @@ div.training-name{
         <sys_created_by>abhrajyoti.kanrar</sys_created_by>
         <sys_created_on>2022-08-20 23:30:20</sys_created_on>
         <sys_id>f20ee23397599110fc70b998c253af51</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Training Header Display</sys_name>
         <sys_package display_value="Training Center" source="x_509953_tc">c2d585b99759d110fc70b998c253af75</sys_package>
         <sys_policy/>
         <sys_scope display_value="Training Center">c2d585b99759d110fc70b998c253af75</sys_scope>
         <sys_update_name>sp_widget_f20ee23397599110fc70b998c253af51</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-19 16:13:34</sys_updated_on>
         <template><![CDATA[<div>
 	<div class="training-name">
     {{c.data.training_name}}

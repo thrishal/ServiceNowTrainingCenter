@@ -2,7 +2,7 @@
     <element db_object_id="ad8dc5b19799d110fc70b998c253af44" label="User Training Data" max_length="40" name="x_509953_tc_user_training_data" type="collection">
         <element label="Completed On" max_length="40" name="completed_on" read_only="true" type="glide_date_time"/>
         <element display="true" label="Display Label" max_length="150" name="display_label" read_only="true" type="string"/>
-        <element label="Feedback" max_length="1000" name="feedback" type="string"/>
+        <element default="Kindly give your feedback" label="Feedback" max_length="1500" name="feedback" type="string"/>
         <element default="0%" label="Progress Percentage" max_length="5" name="progress_percentage" read_only="true" type="string"/>
         <element choice="1" label="Progress Status" mandatory="true" max_length="40" name="progress_status" type="choice">
             <choice>

@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="progress" table="x_509953_tc_m2m_assigned_modules">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -34,7 +34,7 @@
         <function_field>false</function_field>
         <internal_type display_value="Choice">choice</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <max_length>50</max_length>
         <name>x_509953_tc_m2m_assigned_modules</name>
         <next_element/>
         <primary>false</primary>
@@ -57,6 +57,8 @@
         <sys_policy/>
         <sys_scope display_value="Training Center">c2d585b99759d110fc70b998c253af75</sys_scope>
         <sys_update_name>sys_dictionary_x_509953_tc_m2m_assigned_modules_progress</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-19 15:46:25</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

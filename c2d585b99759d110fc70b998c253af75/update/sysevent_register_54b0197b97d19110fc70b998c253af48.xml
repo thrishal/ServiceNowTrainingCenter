@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
     <sysevent_register action="INSERT_OR_UPDATE">
         <caller_access/>
-        <description/>
+        <description>Email</description>
         <event_name>x_509953_tc.trigger.referral.email</event_name>
         <fired_by/>
         <queue/>
@@ -10,11 +10,14 @@
         <sys_created_by>abhrajyoti.kanrar</sys_created_by>
         <sys_created_on>2022-08-20 16:43:08</sys_created_on>
         <sys_id>54b0197b97d19110fc70b998c253af48</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>x_509953_tc.trigger.referral.email</sys_name>
         <sys_package display_value="Training Center" source="x_509953_tc">c2d585b99759d110fc70b998c253af75</sys_package>
         <sys_policy/>
         <sys_scope display_value="Training Center">c2d585b99759d110fc70b998c253af75</sys_scope>
         <sys_update_name>sysevent_register_54b0197b97d19110fc70b998c253af48</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-19 15:57:34</sys_updated_on>
         <table>x_509953_tc_training</table>
     </sysevent_register>
 </record_update>

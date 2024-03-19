@@ -4,13 +4,13 @@
             <element>name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-03-19 05:29:45</sys_created_on>
-            <sys_id>f7041ed5970102105b8aff36f053af02</sys_id>
+            <sys_created_on>2024-03-19 15:48:17</sys_created_on>
+            <sys_id>54a160e9970902105b8aff36f053af10</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training" sys_domain="global" view="Default view">b3a8457d9759d110fc70b998c253afc0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-03-19 05:29:45</sys_updated_on>
+            <sys_updated_on>2024-03-19 15:48:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>catrgory</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-03-19 05:29:45</sys_created_on>
-            <sys_id>bf041ed5970102105b8aff36f053af02</sys_id>
+            <sys_created_on>2024-03-19 15:48:17</sys_created_on>
+            <sys_id>d4a160e9970902105b8aff36f053af10</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training" sys_domain="global" view="Default view">b3a8457d9759d110fc70b998c253afc0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-03-19 05:29:45</sys_updated_on>
+            <sys_updated_on>2024-03-19 15:48:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>background_image</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-03-19 05:29:45</sys_created_on>
-            <sys_id>33041ed5970102105b8aff36f053af03</sys_id>
+            <sys_created_on>2024-03-19 15:48:17</sys_created_on>
+            <sys_id>58a160e9970902105b8aff36f053af10</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training" sys_domain="global" view="Default view">b3a8457d9759d110fc70b998c253afc0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-03-19 05:29:45</sys_updated_on>
+            <sys_updated_on>2024-03-19 15:48:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-03-19 05:29:45</sys_created_on>
-            <sys_id>b3041ed5970102105b8aff36f053af03</sys_id>
+            <sys_created_on>2024-03-19 15:48:17</sys_created_on>
+            <sys_id>d8a160e9970902105b8aff36f053af10</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training" sys_domain="global" view="Default view">b3a8457d9759d110fc70b998c253afc0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-03-19 05:29:45</sys_updated_on>
+            <sys_updated_on>2024-03-19 15:48:17</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>active</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-03-19 05:29:45</sys_created_on>
-            <sys_id>37041ed5970102105b8aff36f053af03</sys_id>
+            <sys_created_on>2024-03-19 15:48:17</sys_created_on>
+            <sys_id>5ca160e9970902105b8aff36f053af10</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training" sys_domain="global" view="Default view">b3a8457d9759d110fc70b998c253afc0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-03-19 05:29:45</sys_updated_on>
+            <sys_updated_on>2024-03-19 15:48:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>status</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-03-19 05:29:45</sys_created_on>
-            <sys_id>b7041ed5970102105b8aff36f053af03</sys_id>
+            <sys_created_on>2024-03-19 15:48:17</sys_created_on>
+            <sys_id>dca160e9970902105b8aff36f053af10</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training" sys_domain="global" view="Default view">b3a8457d9759d110fc70b998c253afc0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-03-19 05:29:45</sys_updated_on>
+            <sys_updated_on>2024-03-19 15:48:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>published</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-03-19 05:29:45</sys_created_on>
-            <sys_id>3b041ed5970102105b8aff36f053af03</sys_id>
+            <sys_created_on>2024-03-19 15:48:17</sys_created_on>
+            <sys_id>50a160e9970902105b8aff36f053af11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training" sys_domain="global" view="Default view">b3a8457d9759d110fc70b998c253afc0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-03-19 05:29:45</sys_updated_on>
+            <sys_updated_on>2024-03-19 15:48:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>version</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-03-19 05:29:45</sys_created_on>
-            <sys_id>bb041ed5970102105b8aff36f053af03</sys_id>
+            <sys_created_on>2024-03-19 15:48:17</sys_created_on>
+            <sys_id>d0a160e9970902105b8aff36f053af11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training" sys_domain="global" view="Default view">b3a8457d9759d110fc70b998c253afc0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-03-19 05:29:45</sys_updated_on>
+            <sys_updated_on>2024-03-19 15:48:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>.end_split</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-03-19 05:29:45</sys_created_on>
-            <sys_id>3f041ed5970102105b8aff36f053af03</sys_id>
+            <sys_created_on>2024-03-19 15:48:17</sys_created_on>
+            <sys_id>54a160e9970902105b8aff36f053af11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training" sys_domain="global" view="Default view">b3a8457d9759d110fc70b998c253afc0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-03-19 05:29:45</sys_updated_on>
+            <sys_updated_on>2024-03-19 15:48:17</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>.begin_split</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-03-19 05:29:45</sys_created_on>
-            <sys_id>bf041ed5970102105b8aff36f053af03</sys_id>
+            <sys_created_on>2024-03-19 15:48:17</sys_created_on>
+            <sys_id>d4a160e9970902105b8aff36f053af11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training" sys_domain="global" view="Default view">b3a8457d9759d110fc70b998c253afc0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-03-19 05:29:45</sys_updated_on>
+            <sys_updated_on>2024-03-19 15:48:17</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -144,13 +144,13 @@
             <element>details</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-03-19 05:29:45</sys_created_on>
-            <sys_id>33041ed5970102105b8aff36f053af04</sys_id>
+            <sys_created_on>2024-03-19 15:48:17</sys_created_on>
+            <sys_id>58a160e9970902105b8aff36f053af11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training" sys_domain="global" view="Default view">b3a8457d9759d110fc70b998c253afc0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-03-19 05:29:45</sys_updated_on>
+            <sys_updated_on>2024-03-19 15:48:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -158,29 +158,15 @@
             <element>.split</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-03-19 05:29:45</sys_created_on>
-            <sys_id>b3041ed5970102105b8aff36f053af04</sys_id>
+            <sys_created_on>2024-03-19 15:48:17</sys_created_on>
+            <sys_id>d8a160e9970902105b8aff36f053af11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training" sys_domain="global" view="Default view">b3a8457d9759d110fc70b998c253afc0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-03-19 05:29:45</sys_updated_on>
+            <sys_updated_on>2024-03-19 15:48:17</sys_updated_on>
             <sys_user/>
             <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_updated_on</element>
-            <position>12</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-03-19 05:29:45</sys_created_on>
-            <sys_id>37041ed5970102105b8aff36f053af04</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_509953_tc_training" sys_domain="global" view="Default view">b3a8457d9759d110fc70b998c253afc0</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-03-19 05:29:45</sys_updated_on>
-            <sys_user/>
-            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>

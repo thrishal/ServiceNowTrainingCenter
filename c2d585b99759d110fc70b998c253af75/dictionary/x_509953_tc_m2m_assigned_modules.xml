@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="6650d5359799d110fc70b998c253af75" label="User Assigned Modules" max_length="40" name="x_509953_tc_m2m_assigned_modules" type="collection">
-        <element choice="1" label="Progress" max_length="40" name="progress" type="choice">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Progress" max_length="50" name="progress" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Completed" value="completed"/>
                 <element inactive_on_update="false" label="Registered" value="registered"/>
